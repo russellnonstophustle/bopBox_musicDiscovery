@@ -23,5 +23,8 @@ Integration with other services: Integrating the app with other music streaming 
 ## Lessons Learned:
 
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. Here are a couple of mine:
+
 Stay up-to-date with API documentation: APIs can change over time, and it's important to stay aware of any updates or changes that may affect the functionality of the app. In my case, the Shazam core API had deprecated a specific endpoint, which required me to update the code to use the new endpoints.
+
+File/Folder Structure: You just have to appreciate the folder structure that the JavaScript Mastery course uses and teaches, it really doesn't get any better.
 
