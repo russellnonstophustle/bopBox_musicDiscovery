@@ -3,7 +3,7 @@
 
 **Link to project:** https://bopbox.netlify.app/
 
-![Alt text](src\assets\logoNewNoBg.png?raw=true "Title")
+![Alt text](src\assets\logoNewNoBg.png)
 
 
 ## How It's Made:
