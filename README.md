@@ -3,7 +3,7 @@
 
 **Link to project:** https://bopbox.netlify.app/
 
-![Alt text](src\assets\logoNewNoBg.png)
+![Alt text](https://user-images.githubusercontent.com/108148963/219224035-2aa8e818-556c-4c36-8bdf-889bed727ba1.png)
 
 
 ## How It's Made:
