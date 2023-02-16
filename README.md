@@ -3,7 +3,9 @@
 
 **Link to project:** https://bopbox.netlify.app/
 
-(src\assets\logoNewNoBg.png)
+![alt text](https://github.com/russellnonstophustle/bopBox_musicDiscovery
+/blob/main/logoNewNoBg.png?raw=true)
+
 
 ## How It's Made:
 
