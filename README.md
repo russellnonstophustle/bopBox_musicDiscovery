@@ -3,8 +3,7 @@
 
 **Link to project:** https://bopbox.netlify.app/
 
-![alt text](https://github.com/russellnonstophustle/bopBox_musicDiscovery
-/src/assets/logoNewNoBg.png?raw=true)
+![Alt text](src\assets\logoNewNoBg.png?raw=true "Title")
 
 
 ## How It's Made:
