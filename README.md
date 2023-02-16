@@ -4,7 +4,7 @@
 **Link to project:** https://bopbox.netlify.app/
 
 ![alt text](https://github.com/russellnonstophustle/bopBox_musicDiscovery
-/blob/main/logoNewNoBg.png?raw=true)
+/src/assets/logoNewNoBg.png?raw=true)
 
 
 ## How It's Made:
